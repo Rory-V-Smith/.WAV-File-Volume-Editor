@@ -1,7 +1,7 @@
 # .WAV-File-Volume-Editor
 A programme that modifies the volume of a .WAV file
 
-Completed in part of Harvard's [CS50 - Introduction to Computer Science, 2020](https://cs50.harvard.edu/x/2020/)
+Completed in part of Harvard's [CS50 - Introduction to Computer Science, 2020](https://cs50.harvard.edu/x/2020/).
 This was Lab 4: [Volume](https://cs50.harvard.edu/college/2020/fall/labs/4/)
 
 ### Background
